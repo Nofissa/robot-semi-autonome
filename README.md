@@ -1,11 +1,6 @@
 # semi-autonomous-robot
 AUTEURS:
-    Ben Thami Omar 
-    El Hila Mohammed Amine
-    Farhat Ayah
-    Khaif Nofissa
-    Merdjaoui Abdelkarim
-    Sofiane Mouici
+    Ben Thami Omar, El Hila Mohammed Amine, Farhat Ayah, Khaif Nofissa, Merdjaoui Abdelkarim, Sofiane Mouici
 
 DESCRIPTION: 
     L'épreuve se déroule sur une table de 4 par 8 pieds sur laquelle se trouve du ruban noir que et des poteaux.
